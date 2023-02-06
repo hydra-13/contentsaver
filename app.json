@@ -29,11 +29,11 @@
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": ""
+            "value": "1803133039"
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": ""
+            "value": "xproject13"
         }
     },
     "buildpacks": [
