@@ -3,5 +3,5 @@
 ethon
 cryptg
 tgcrypto
-pyrogram
+pyrogram==1.4.16
 python-decouple
